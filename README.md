@@ -2,7 +2,7 @@
 A simple calculator application using HTML, CSS, Javascript.
 Check out the Calculator project folder to view the files created for the calculator app using HTML, CSS and JS.
 
-Tools:
+**Tools:**
 1. HTML
 2. CSS
 3. JavaScript
